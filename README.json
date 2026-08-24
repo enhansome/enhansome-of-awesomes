@@ -1,7 +1,3808 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-portfolios",
+              "description": "A curated list of Awesome Creative Portfolios",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78669659,
+                "language": "JavaScript",
+                "last_commit": "2024-07-17T03:20:10Z",
+                "owner": "iRaul",
+                "repo": "creative-portfolios",
+                "stars": 2879
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github-readme-stats",
+              "description": "Dynamically generated stats for your github readmes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278335273,
+                "language": "JavaScript",
+                "last_commit": "2026-07-31T00:50:25Z",
+                "owner": "anuraghazra",
+                "repo": "github-readme-stats",
+                "stars": 79825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Profile-README-templates",
+              "description": "collection of templates with multimedia and simple profiles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278296523,
+                "language": "JavaScript",
+                "last_commit": "2024-08-08T05:15:45Z",
+                "owner": "kautukkundan",
+                "repo": "Awesome-Profile-README-templates",
+                "stars": 11189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-readme",
+              "description": "A curated list of awesome READMEs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29456624,
+                "language": null,
+                "last_commit": "2026-08-20T19:50:09Z",
+                "owner": "matiassingers",
+                "repo": "awesome-readme",
+                "stars": 21364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reddit-Stock-Trends",
+              "description": "Musings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336531380,
+                "language": "Python",
+                "last_commit": "2022-03-23T22:57:15Z",
+                "owner": "iam-abbas",
+                "repo": "Reddit-Stock-Trends",
+                "stars": 1590
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-personalbranding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Managers Playbook",
+              "description": "Heuristics for effective management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128707215,
+                "language": null,
+                "last_commit": "2026-01-09T16:23:17Z",
+                "owner": "ksindi",
+                "repo": "managers-playbook",
+                "stars": 5512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Engineering Management",
+              "description": "A collection of inspiring resources related to engineering management and tech leadership",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54109344,
+                "language": "Shell",
+                "last_commit": "2026-07-19T14:47:12Z",
+                "owner": "charlax",
+                "repo": "engineering-management",
+                "stars": 8344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-speaking",
+              "description": "Resources about public speaking",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37415878,
+                "language": null,
+                "last_commit": "2023-11-20T16:21:54Z",
+                "owner": "matteofigus",
+                "repo": "awesome-speaking",
+                "stars": 1974
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Public_Speaking",
+              "description": "public speaking, specifically in the context of software development and IT conferences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92865843,
+                "language": null,
+                "last_commit": "2024-08-11T21:06:01Z",
+                "owner": "vmbrasseur",
+                "repo": "Public_Speaking",
+                "stars": 1451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-talks",
+              "description": "tech online talks and screencasts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16010964,
+                "language": null,
+                "last_commit": "2026-06-25T14:00:39Z",
+                "owner": "JanVanRyswyck",
+                "repo": "awesome-talks",
+                "stars": 6198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "the-engineering-managers-booklist",
+              "description": "Books for people who are or aspire to manage/lead team(s) of software engineers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69979342,
+                "language": null,
+                "last_commit": "2024-01-27T18:53:43Z",
+                "owner": "jesselpalmer",
+                "repo": "the-engineering-managers-booklist",
+                "stars": 1690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "engineer-manager",
+              "description": "A list of engineering manager resource links.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74421371,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T17:03:00Z",
+                "owner": "ryanburgess",
+                "repo": "engineer-manager",
+                "stars": 10724
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "engineeringladders",
+              "description": "A framework for Engineering Managers - roles explained",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216124407,
+                "language": null,
+                "last_commit": "2022-11-01T22:12:16Z",
+                "owner": "jorgef",
+                "repo": "engineeringladders",
+                "stars": 8540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-engineering-ladders",
+              "description": "A curated list of awesome resources for Engineering Ladder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152259159,
+                "language": null,
+                "last_commit": "2022-03-21T05:19:28Z",
+                "owner": "posquit0",
+                "repo": "awesome-engineering-ladders",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "manager-resources",
+              "description": "Views of an engineering manager at Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143458403,
+                "language": null,
+                "last_commit": "2026-06-15T20:19:24Z",
+                "owner": "dmleong",
+                "repo": "manager-resources",
+                "stars": 296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "manager-resources",
+              "description": "A curated list of resources for front-line engineering managers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68821274,
+                "language": null,
+                "last_commit": "2022-03-30T17:16:54Z",
+                "owner": "VGraupera",
+                "repo": "manager-resources",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "engineering-management-resources",
+              "description": "A list of resources for engineering managers of all levels",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61626178,
+                "language": null,
+                "last_commit": "2019-02-19T07:57:21Z",
+                "owner": "afternoon",
+                "repo": "engineering-management-resources",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-management",
+              "description": "👔 Engineering Team Management Knowledge Base",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308356445,
+                "language": null,
+                "last_commit": "2026-08-14T09:09:00Z",
+                "owner": "kdeldycke",
+                "repo": "awesome-engineering-team-management",
+                "stars": 2584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1on1-questions",
+              "description": "Mega list of 1 on 1 meeting questions compiled from a variety to sources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111212542,
+                "language": "JavaScript",
+                "last_commit": "2023-03-18T15:42:17Z",
+                "owner": "VGraupera",
+                "repo": "1on1-questions",
+                "stars": 9614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7 Must-Do’s to Nurture 10x Engineers",
+              "description": "Nice one on nurturing tech talent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160249935,
+                "language": null,
+                "last_commit": "2025-03-03T21:28:34Z",
+                "owner": "AdyKalra",
+                "repo": "awesome-leading-and-managing",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-engineering-team-management",
+              "description": "Nice one for leads - 👔 How to transition from software development to engineering management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308356445,
+                "language": null,
+                "last_commit": "2026-08-14T09:09:00Z",
+                "owner": "kdeldycke",
+                "repo": "awesome-engineering-team-management",
+                "stars": 2584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The 4 BEPS Axes of a Leader",
+              "description": "Different dimensions for a leader",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160249935,
+                "language": null,
+                "last_commit": "2025-03-03T21:28:34Z",
+                "owner": "AdyKalra",
+                "repo": "awesome-leading-and-managing",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-cto",
+              "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76679496,
+                "language": null,
+                "last_commit": "2026-03-02T12:50:21Z",
+                "owner": "kuchin",
+                "repo": "awesome-cto",
+                "stars": 35371
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-leadership"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-chatgpt-suggestions",
+              "description": "List of prompts for chatGPT for various assistances with tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578542601,
+                "language": null,
+                "last_commit": "2024-11-14T04:21:15Z",
+                "owner": "aminblm",
+                "repo": "awesome-chatgpt-suggestions",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-chatgpt-prompts",
+              "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574523116,
+                "language": "HTML",
+                "last_commit": "2026-08-24T03:24:40Z",
+                "owner": "f",
+                "repo": "prompts.chat",
+                "stars": 167848
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-ai-agents",
+              "description": "Landscape list of AI autonomous agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655459367,
+                "language": null,
+                "last_commit": "2026-08-21T18:52:45Z",
+                "owner": "e2b-dev",
+                "repo": "awesome-ai-agents",
+                "stars": 29650
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-ai-chatgpt"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hiring-without-whiteboards",
+              "description": "Interview styles of different orgs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85031442,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T02:32:28Z",
+                "owner": "poteto",
+                "repo": "hiring-without-whiteboards",
+                "stars": 51489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The-Complete-FAANG-Preparation",
+              "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371881380,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-15T23:06:06Z",
+                "owner": "AkashSingh3031",
+                "repo": "The-Complete-FAANG-Preparation",
+                "stars": 12082
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "devops-exercises",
+              "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212639071,
+                "language": "Python",
+                "last_commit": "2025-12-27T14:22:30Z",
+                "owner": "bregman-arie",
+                "repo": "devops-exercises",
+                "stars": 84257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "what-happens-when",
+              "description": "An attempt to answer the age old interview question \"What happens when you",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14194174,
+                "language": null,
+                "last_commit": "2024-08-19T13:02:25Z",
+                "owner": "alex",
+                "repo": "what-happens-when",
+                "stars": 43301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevOps-Books",
+              "description": "\"DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in a span of a few hours.\" ― Hamesh Chawla",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191071454,
+                "language": null,
+                "last_commit": "2021-01-28T06:13:32Z",
+                "owner": "manjunath5496",
+                "repo": "DevOps-Books",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "developers-conferences-agenda",
+              "description": "This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91165678,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T04:38:48Z",
+                "owner": "scraly",
+                "repo": "developers-conferences-agenda",
+                "stars": 1997
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-recruitment-books-conferences"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-book-authoring",
+              "description": "A collection of Awesome resources for technical book authors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53774703,
+                "language": null,
+                "last_commit": "2019-12-06T20:37:21Z",
+                "owner": "TalAter",
+                "repo": "awesome-book-authoring",
+                "stars": 426
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "engineering-blogs",
+              "description": "A curated list of engineering blogs of startup and enterprise companies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26743136,
+                "language": null,
+                "last_commit": "2026-04-10T10:44:09Z",
+                "owner": "sumodirjo",
+                "repo": "engineering-blogs",
+                "stars": 1678
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "engineering-blogs-2",
+              "description": "A curated list of engineering blogs of startup and enterprise companies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37382858,
+                "language": "Ruby",
+                "last_commit": "2024-08-21T13:01:11Z",
+                "owner": "kilimchoi",
+                "repo": "engineering-blogs",
+                "stars": 38544
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emoji-cheat-sheet",
+              "description": "A markdown version emoji cheat sheet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85325902,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T00:15:36Z",
+                "owner": "ikatyang",
+                "repo": "emoji-cheat-sheet",
+                "stars": 13797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-youtubers",
+              "description": "▶️ An awesome list containing awesome YouTubers that teach about technology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290234921,
+                "language": "Markdown",
+                "last_commit": "2026-08-05T18:42:59Z",
+                "owner": "JoseDeFreitas",
+                "repo": "awesome-youtubers",
+                "stars": 7747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mind-Expanding-Books",
+              "description": "Books everyone should read!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36554250,
+                "language": "JavaScript",
+                "last_commit": "2024-11-09T17:06:27Z",
+                "owner": "hackerkid",
+                "repo": "Mind-Expanding-Books",
+                "stars": 14180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-book-summaries",
+              "description": "Great summary of most popular motivational books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338878703,
+                "language": null,
+                "last_commit": "2025-09-24T16:57:31Z",
+                "owner": "AdyKalra",
+                "repo": "awesome-leadership",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GCPSketchnote",
+              "description": "GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325456028,
+                "language": null,
+                "last_commit": "2023-06-09T13:49:42Z",
+                "owner": "priyankavergadia",
+                "repo": "GCPSketchnote",
+                "stars": 5105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mlkit",
+              "description": "A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267702531,
+                "language": "Kotlin",
+                "last_commit": "2026-07-21T20:29:12Z",
+                "owner": "googlesamples",
+                "repo": "mlkit",
+                "stars": 4286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bigquery-utils",
+              "description": "Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery. https://cloud.google.com/bigquery/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201975309,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-03T02:33:41Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "bigquery-utils",
+                "stars": 1306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-gcp-certifications",
+              "description": "Google Cloud Platform Certification resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219705781,
+                "language": null,
+                "last_commit": "2026-03-30T09:29:40Z",
+                "owner": "sathishvj",
+                "repo": "awesome-gcp-certifications",
+                "stars": 4431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-google-cloud",
+              "description": "A curated list of awesome stuff for Google Cloud Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65946967,
+                "language": null,
+                "last_commit": "2024-05-30T16:03:07Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "awesome-google-cloud",
+                "stars": 916
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-googlecloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "azure-quickstart-templates",
+              "description": "collection of azure-quickstart-templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34407651,
+                "language": "Bicep",
+                "last_commit": "2026-08-19T20:31:31Z",
+                "owner": "Azure",
+                "repo": "azure-quickstart-templates",
+                "stars": 14864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "azure-sdk-for-js",
+              "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108311273,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:52:23Z",
+                "owner": "Azure",
+                "repo": "azure-sdk-for-js",
+                "stars": 2292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "azure-quickstart-templates",
+              "description": "Azure Quickstart Templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34407651,
+                "language": "Bicep",
+                "last_commit": "2026-08-19T20:31:31Z",
+                "owner": "Azure",
+                "repo": "azure-quickstart-templates",
+                "stars": 14864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "monthlyresources",
+              "description": "Use this repository to explore the latest content and code samples. Each month we will release best of content resources that relate to a particular theme. - Microsoft Developer Editorial team",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 351313946,
+                "language": null,
+                "last_commit": "2023-02-02T00:38:50Z",
+                "owner": "microsoft",
+                "repo": "monthlyresources",
+                "stars": 276
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-azure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "serverless cdk patterns",
+              "description": "This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported CloudFormation also included.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233364188,
+                "language": "TypeScript",
+                "last_commit": "2024-01-30T06:00:03Z",
+                "owner": "cdk-patterns",
+                "repo": "serverless",
+                "stars": 2352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk-components",
+              "description": "A collection of higher-level aws cdk components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164016558,
+                "language": "TypeScript",
+                "last_commit": "2024-09-15T19:37:56Z",
+                "owner": "cloudcomponents",
+                "repo": "cdk-constructs",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-cdk-intro-workshop",
+              "description": "Introduction to the AWS CDK - Workshop",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 153495057,
+                "language": "HTML",
+                "last_commit": "2024-08-01T17:04:17Z",
+                "owner": "aws-samples",
+                "repo": "aws-cdk-intro-workshop",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-cloudformation",
+              "description": "A curated list of resources and projects for working with AWS CloudFormation. https://aws.amazon.com/cloudformation/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169132999,
+                "language": null,
+                "last_commit": "2024-07-23T23:09:59Z",
+                "owner": "aws-cloudformation",
+                "repo": "awesome-cloudformation",
+                "stars": 624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdk8s",
+              "description": "Define Kubernetes native apps and abstractions using object-oriented programming https://cdk8s.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105809298,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T09:48:45Z",
+                "owner": "cdk8s-team",
+                "repo": "cdk8s",
+                "stars": 4851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-aws-certifications",
+              "description": "A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274990237,
+                "language": null,
+                "last_commit": "2026-06-16T14:49:07Z",
+                "owner": "ptcodes",
+                "repo": "awesome-aws-certifications",
+                "stars": 705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-aws",
+              "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "my-arsenal-of-aws-security-tools",
+              "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141482866,
+                "language": "Shell",
+                "last_commit": "2026-07-07T14:45:14Z",
+                "owner": "toniblyx",
+                "repo": "my-arsenal-of-aws-security-tools",
+                "stars": 9501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-cloudformation-user-guide",
+              "description": "all cloud formation templates",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 115147155,
+                "language": null,
+                "last_commit": "2023-12-07T23:09:03Z",
+                "owner": "awsdocs",
+                "repo": "aws-cloudformation-user-guide",
+                "stars": 762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-lambda-extensions",
+              "description": "A collection of sample extensions to help you get started with AWS Lambda Extensions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286560975,
+                "language": "Go",
+                "last_commit": "2026-02-03T20:21:51Z",
+                "owner": "aws-samples",
+                "repo": "aws-lambda-extensions",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS-in-bullet-points",
+              "description": "☁️ AWS summary in bullet points",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209651326,
+                "language": null,
+                "last_commit": "2025-12-02T04:05:35Z",
+                "owner": "undergroundwires",
+                "repo": "AWS-in-bullet-points",
+                "stars": 402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aws-solutions-constructs",
+              "description": "The AWS Solutions Constructs library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions in code to create predictable and repeatable infrastructure. The goal of AWS Solutions Constructs is to accelerate the experience for developers to build solutions of any size using pattern-based definitions for their architecture. The patterns defined in AWS Solutions Constructs are high level, multi-service abstractions of AWS CDK constructs that have default configurations based on well-architected best practices. The library is organized into logical modules using object-oriented techniques to create each architectural pattern model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248605700,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T14:11:29Z",
+                "owner": "awslabs",
+                "repo": "aws-solutions-constructs",
+                "stars": 1356
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "howtheyaws",
+              "description": "A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339769186,
+                "language": "JavaScript",
+                "last_commit": "2023-10-10T14:20:05Z",
+                "owner": "upgundecha",
+                "repo": "howtheyaws",
+                "stars": 678
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS-SAA-C02-Study-Guide",
+              "description": "How to become a certified AWS Solutions Architect",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269727238,
+                "language": null,
+                "last_commit": "2025-09-16T04:06:19Z",
+                "owner": "keenanromain",
+                "repo": "AWS-SAA-C02-Study-Guide",
+                "stars": 2101
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-aws"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-machinelearning",
+              "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-21T10:11:51Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-Machine-Learning-Tutorials",
+              "description": "machine learning and deep learning tutorials, articles and other resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42360601,
+                "language": null,
+                "last_commit": "2024-06-12T08:11:59Z",
+                "owner": "ujjwalkarn",
+                "repo": "Machine-Learning-Tutorials",
+                "stars": 18141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-quant",
+              "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43425480,
+                "language": "HTML",
+                "last_commit": "2026-08-24T01:28:51Z",
+                "owner": "wilsonfreitas",
+                "repo": "awesome-quant",
+                "stars": 29120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "machine-learning-roadmap",
+              "description": "A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278289913,
+                "language": null,
+                "last_commit": "2022-12-08T22:38:52Z",
+                "owner": "mrdbourke",
+                "repo": "machine-learning-roadmap",
+                "stars": 7894
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "data-science-interviews",
+              "description": "Data science interview questions and answers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244452551,
+                "language": "HTML",
+                "last_commit": "2026-08-18T07:04:22Z",
+                "owner": "alexeygrigorev",
+                "repo": "data-science-interviews",
+                "stars": 10127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fastbook",
+              "description": "draft notebooks cover an introduction to deep learning, fastai, and PyTorch, these notebooks will form the basis of this book",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243838973,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-16T14:38:24Z",
+                "owner": "fastai",
+                "repo": "fastbook",
+                "stars": 25236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "learning",
+              "description": "Becoming 1% better at data science everyday \\",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112103066,
+                "language": null,
+                "last_commit": "2026-08-04T12:18:01Z",
+                "owner": "amitness",
+                "repo": "learning",
+                "stars": 6946
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ML-From-Scratch",
+              "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80990461,
+                "language": "Python",
+                "last_commit": "2023-10-15T06:05:06Z",
+                "owner": "eriklindernoren",
+                "repo": "ML-From-Scratch",
+                "stars": 32516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI-Expert-Roadmap",
+              "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306977633,
+                "language": "JavaScript",
+                "last_commit": "2025-09-12T14:59:30Z",
+                "owner": "AMAI-GmbH",
+                "repo": "AI-Expert-Roadmap",
+                "stars": 31220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "applied-ml",
+              "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277168957,
+                "language": null,
+                "last_commit": "2024-07-18T22:41:02Z",
+                "owner": "eugeneyan",
+                "repo": "applied-ml",
+                "stars": 30079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data-Science-Cheatsheet",
+              "description": "A helpful 4-page data science cheatsheet to assist with exam reviews, interview prep, and anything in-between.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336179614,
+                "language": "TeX",
+                "last_commit": "2023-03-15T22:16:54Z",
+                "owner": "aaronwangy",
+                "repo": "Data-Science-Cheatsheet",
+                "stars": 5444
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prompt-Engineering-Guide",
+              "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579082810,
+                "language": "MDX",
+                "last_commit": "2026-03-11T20:09:13Z",
+                "owner": "dair-ai",
+                "repo": "Prompt-Engineering-Guide",
+                "stars": 77750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ML-Papers-Explained",
+              "description": "Explanation to key concepts in ML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588297294,
+                "language": null,
+                "last_commit": "2025-06-30T03:35:10Z",
+                "owner": "dair-ai",
+                "repo": "ML-Papers-Explained",
+                "stars": 8595
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-machinelearning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-roadmaps",
+              "description": "View roadmaps about developer roles to help you learn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199965142,
+                "language": null,
+                "last_commit": "2023-02-21T00:04:43Z",
+                "owner": "AdyKalra",
+                "repo": "awesome-roadmaps",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "digital-gardeners",
+              "description": "curated list of resources, links, projects, and ideas for gardeners tending their digital notes on both public and private interwebs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263146261,
+                "language": "JavaScript",
+                "last_commit": "2024-06-22T02:48:25Z",
+                "owner": "MaggieAppleton",
+                "repo": "digital-gardeners",
+                "stars": 4790
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-product-management",
+              "description": "A curated list of awesome resources for product/program managers to learn and grow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173645627,
+                "language": "CSS",
+                "last_commit": "2026-02-08T02:36:12Z",
+                "owner": "dend",
+                "repo": "awesome-product-management",
+                "stars": 2317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-cold-showers",
+              "description": "For when people get too hyped up about things",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115458656,
+                "language": null,
+                "last_commit": "2024-01-05T01:14:55Z",
+                "owner": "hwayne",
+                "repo": "awesome-cold-showers",
+                "stars": 7345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "the-engineering-managers-booklist",
+              "description": "Books for people who are or aspire to manage/lead team(s) of software engineers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69979342,
+                "language": null,
+                "last_commit": "2024-01-27T18:53:43Z",
+                "owner": "jesselpalmer",
+                "repo": "the-engineering-managers-booklist",
+                "stars": 1690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Five things all execs should know about technology",
+              "description": "Tech Debt and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Building Blocks Of Capability",
+              "description": "capabilty / operating model",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-chaos-engineering",
+              "description": "A curated list of Chaos Engineering resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98446777,
+                "language": null,
+                "last_commit": "2023-12-28T19:30:06Z",
+                "owner": "dastergon",
+                "repo": "awesome-chaos-engineering",
+                "stars": 6641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Impact Mapping",
+              "description": "Pinpoint what's important: Try Impact Mapping",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Decision Framework",
+              "description": "Transparent Inclusive Customer-Centric principles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToolsOfTheTrade",
+              "description": "amazing collection of all tools from Hacker News",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20281866,
+                "language": null,
+                "last_commit": "2026-05-16T20:15:09Z",
+                "owner": "cjbarber",
+                "repo": "ToolsOfTheTrade",
+                "stars": 17152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DORA's research program",
+              "description": "guide to DevOps, along with six years of State of DevOps Reports",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-techvision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Grafana On-Call",
+              "description": "On Call from Pager Duty to Grafana",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devops-resources",
+              "description": "Useful resources and information regarding DevOps and secondly, provide some roadmap for those who want to practice DevOps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164419238,
+                "language": "Groovy",
+                "last_commit": "2024-07-12T09:40:46Z",
+                "owner": "bregman-arie",
+                "repo": "devops-resources",
+                "stars": 9654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devsecops",
+              "description": "Curating the best DevSecOps resources and tooling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244098056,
+                "language": null,
+                "last_commit": "2024-08-02T12:52:41Z",
+                "owner": "jakob-pennington",
+                "repo": "awesome-devsecops",
+                "stars": 1717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devops-exercises",
+              "description": "Questions and exercises on various technical topics, sometimes related to DevOps and SRE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212639071,
+                "language": "Python",
+                "last_commit": "2025-12-27T14:22:30Z",
+                "owner": "bregman-arie",
+                "repo": "devops-exercises",
+                "stars": 84257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devops",
+              "description": "A curated list of awesome softwares for Devops.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145271963,
+                "language": null,
+                "last_commit": "2025-06-05T06:21:48Z",
+                "owner": "awesome-soft",
+                "repo": "awesome-devops",
+                "stars": 535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devops",
+              "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222709217,
+                "language": "Python",
+                "last_commit": "2026-07-24T15:52:00Z",
+                "owner": "wmariuss",
+                "repo": "awesome-devops",
+                "stars": 4336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devopstools",
+              "description": "A curated list of awesome DevOps tools, platforms and resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222709217,
+                "language": "Python",
+                "last_commit": "2026-07-24T15:52:00Z",
+                "owner": "wmariuss",
+                "repo": "awesome-devops",
+                "stars": 4336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "resilience-engineering",
+              "description": "Resilience engineering papers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163348245,
+                "language": null,
+                "last_commit": "2026-08-18T04:00:34Z",
+                "owner": "lorin",
+                "repo": "resilience-engineering",
+                "stars": 3063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-sre",
+              "description": "A curated list of Site Reliability and Production Engineering resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56103979,
+                "language": null,
+                "last_commit": "2025-08-28T14:43:14Z",
+                "owner": "dastergon",
+                "repo": "awesome-sre",
+                "stars": 13458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "howtheysre",
+              "description": "A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338818430,
+                "language": "JavaScript",
+                "last_commit": "2025-11-17T18:57:19Z",
+                "owner": "upgundecha",
+                "repo": "howtheysre",
+                "stars": 9802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloud & DevSecOps Learning",
+              "description": "Collection of Cloud and DevSecOps learning resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327948570,
+                "language": null,
+                "last_commit": "2021-07-22T07:12:12Z",
+                "owner": "chughes29",
+                "repo": "Cloud-DevSecOps-Learning",
+                "stars": 484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-chaos-engineering",
+              "description": "A curated list of Chaos Engineering resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98446777,
+                "language": null,
+                "last_commit": "2023-12-28T19:30:06Z",
+                "owner": "dastergon",
+                "repo": "awesome-chaos-engineering",
+                "stars": 6641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auditing-tools",
+              "description": "all auditing and monitoring tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138393139,
+                "language": null,
+                "last_commit": "2024-11-19T14:00:38Z",
+                "owner": "trimstray",
+                "repo": "the-book-of-secret-knowledge",
+                "stars": 240103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "system-diagnostics",
+              "description": "System Diagnostics/Debuggers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138393139,
+                "language": null,
+                "last_commit": "2024-11-19T14:00:38Z",
+                "owner": "trimstray",
+                "repo": "the-book-of-secret-knowledge",
+                "stars": 240103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-sbom",
+              "description": "A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390993721,
+                "language": null,
+                "last_commit": "2026-05-27T06:02:04Z",
+                "owner": "awesomeSBOM",
+                "repo": "awesome-sbom",
+                "stars": 595
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "devops-exercises",
+              "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212639071,
+                "language": "Python",
+                "last_commit": "2025-12-27T14:22:30Z",
+                "owner": "bregman-arie",
+                "repo": "devops-exercises",
+                "stars": 84257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5 DevSecOps open source projects",
+              "description": "Clair,Sigstore,KubeLinter,Open Policy Agent and Gatekeeper,Falco",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kubernetes roadmap",
+              "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566639549,
+                "language": null,
+                "last_commit": "2026-05-28T07:23:40Z",
+                "owner": "techiescamp",
+                "repo": "kubernetes-learning-path",
+                "stars": 7626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-data-engineering",
+              "description": "A curated list of data engineering tools for software developers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37680686,
+                "language": null,
+                "last_commit": "2026-07-18T15:19:21Z",
+                "owner": "igorbarinov",
+                "repo": "awesome-data-engineering",
+                "stars": 8982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fast-Kubernetes",
+              "description": "This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438192718,
+                "language": "PowerShell",
+                "last_commit": "2025-04-14T08:54:11Z",
+                "owner": "omerbsezer",
+                "repo": "Fast-Kubernetes",
+                "stars": 3702
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-kubernetes",
+              "description": "A curated list of awesome references collected since 2018.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160674247,
+                "language": "HTML",
+                "last_commit": "2026-08-15T08:25:30Z",
+                "owner": "nubenetes",
+                "repo": "awesome-kubernetes",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevOps-Books",
+              "description": "\"DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in a span of a few hours.\" ― Hamesh Chawla",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191071454,
+                "language": null,
+                "last_commit": "2021-01-28T06:13:32Z",
+                "owner": "manjunath5496",
+                "repo": "DevOps-Books",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "services-engineering",
+              "description": "A reading list for services engineering, with a focus on cloud infrastructure services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13344997,
+                "language": null,
+                "last_commit": "2022-10-02T14:18:29Z",
+                "owner": "mmcgrana",
+                "repo": "services-engineering",
+                "stars": 3691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-cloudnative-trainings",
+              "description": "Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 481325890,
+                "language": null,
+                "last_commit": "2025-02-23T18:28:52Z",
+                "owner": "joseadanof",
+                "repo": "awesome-cloudnative-trainings",
+                "stars": 2406
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevOps-Guide",
+              "description": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215599579,
+                "language": "HTML",
+                "last_commit": "2026-05-22T21:30:07Z",
+                "owner": "Tikam02",
+                "repo": "DevOps-Guide",
+                "stars": 9312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "devops-master-class",
+              "description": "Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235013588,
+                "language": "Java",
+                "last_commit": "2024-09-10T15:32:33Z",
+                "owner": "in28minutes",
+                "repo": "devops-master-class",
+                "stars": 2961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Engineering practices",
+              "description": "Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 206410838,
+                "language": null,
+                "last_commit": "2024-09-19T05:27:52Z",
+                "owner": "google",
+                "repo": "eng-practices",
+                "stars": 23307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Technology Trends",
+              "description": "Everything tech - idiosyncratic opinion of a bunch of feeds , radars and technologists across the globe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-engineering blogs",
+              "description": "A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266304916,
+                "language": "HTML",
+                "last_commit": "2023-10-01T11:30:12Z",
+                "owner": "upgundecha",
+                "repo": "awesome-engineering",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome stacks",
+              "description": "https://github.com/stackshareio/awesome-stacks A curated list of tech stacks for building different applications & features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174027707,
+                "language": "JavaScript",
+                "last_commit": "2024-03-08T13:22:21Z",
+                "owner": "stackshareio",
+                "repo": "awesome-stacks",
+                "stars": 3917
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Application Monitoring Simplified",
+              "description": "How Netflix simplifies appln monitoring",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-data-engineering",
+              "description": "A curated list of data engineering tools for software developers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37680686,
+                "language": null,
+                "last_commit": "2026-07-18T15:19:21Z",
+                "owner": "igorbarinov",
+                "repo": "awesome-data-engineering",
+                "stars": 8982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-newsletters",
+              "description": "A list of amazing Newsletters, FE/BE/DE etc..",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40307075,
+                "language": null,
+                "last_commit": "2026-04-17T18:23:06Z",
+                "owner": "zudochkin",
+                "repo": "awesome-newsletters",
+                "stars": 4453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "every-programmer-should-know",
+              "description": "A collection of (mostly) technical things every software developer should know about",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101296881,
+                "language": null,
+                "last_commit": "2025-12-29T19:37:02Z",
+                "owner": "mtdvio",
+                "repo": "every-programmer-should-know",
+                "stars": 100301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-quant",
+              "description": "A curated list of insanely awesome libraries, packages and resources for Quants",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43425480,
+                "language": "HTML",
+                "last_commit": "2026-08-24T01:28:51Z",
+                "owner": "wilsonfreitas",
+                "repo": "awesome-quant",
+                "stars": 29120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-scalability",
+              "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115478820,
+                "language": null,
+                "last_commit": "2026-01-04T03:51:47Z",
+                "owner": "binhnguyennus",
+                "repo": "awesome-scalability",
+                "stars": 73497
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "howtheytest",
+              "description": "A collection of public resources about how software companies test their software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249660426,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T05:12:59Z",
+                "owner": "abhivaikar",
+                "repo": "howtheytest",
+                "stars": 6865
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javascript-testing-best-practices",
+              "description": "exhaustive JavaScript & Node.js testing best practices (July 2020)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195226340,
+                "language": "JavaScript",
+                "last_commit": "2024-06-27T07:25:17Z",
+                "owner": "goldbergyoni",
+                "repo": "javascript-testing-best-practices",
+                "stars": 24629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Beginner-Bug-Bounty-Hunters",
+              "description": "A list of resources for those interested in getting started in bug bounties",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165910840,
+                "language": null,
+                "last_commit": "2024-07-23T17:01:39Z",
+                "owner": "nahamsec",
+                "repo": "Resources-for-Beginner-Bug-Bounty-Hunters",
+                "stars": 12196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Performance",
+              "description": "all perf tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138393139,
+                "language": null,
+                "last_commit": "2024-11-19T14:00:38Z",
+                "owner": "trimstray",
+                "repo": "the-book-of-secret-knowledge",
+                "stars": 240103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-performance-testing",
+              "description": "A collection of awesome performance testing resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34650768,
+                "language": null,
+                "last_commit": "2024-01-09T16:16:53Z",
+                "owner": "andriisoldatenko",
+                "repo": "awesome-performance-testing",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-mysql-performance",
+              "description": "🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304639409,
+                "language": null,
+                "last_commit": "2026-06-09T21:06:41Z",
+                "owner": "Releem",
+                "repo": "awesome-mysql-performance",
+                "stars": 542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-wpo",
+              "description": "📝 A curated list of Web Performance Optimization. Everyone can contribute here!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25212911,
+                "language": null,
+                "last_commit": "2026-07-28T02:18:16Z",
+                "owner": "davidsonfellipe",
+                "repo": "awesome-wpo",
+                "stars": 9049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-android-performance",
+              "description": "Android performance optimization tutorials, videos and tools list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42652974,
+                "language": null,
+                "last_commit": "2019-05-07T11:32:14Z",
+                "owner": "Juude",
+                "repo": "awesome-android-performance",
+                "stars": 2891
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-dot-net-performance",
+              "description": "A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67636344,
+                "language": null,
+                "last_commit": "2026-04-27T19:50:40Z",
+                "owner": "adamsitnik",
+                "repo": "awesome-dot-net-performance",
+                "stars": 3279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Hacking",
+              "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55076063,
+                "language": null,
+                "last_commit": "2026-07-26T03:29:02Z",
+                "owner": "Hack-with-Github",
+                "repo": "Awesome-Hacking",
+                "stars": 118949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-hacker-search-engines",
+              "description": "A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505385703,
+                "language": "Shell",
+                "last_commit": "2026-08-10T08:44:41Z",
+                "owner": "edoardottt",
+                "repo": "awesome-hacker-search-engines",
+                "stars": 11077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OWASP Cheatsheets",
+              "description": "collection of all owasp cheatsheets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162723104,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:52:49Z",
+                "owner": "OWASP",
+                "repo": "CheatSheetSeries",
+                "stars": 32966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SecLists",
+              "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3482588,
+                "language": "PHP",
+                "last_commit": "2026-08-24T14:19:12Z",
+                "owner": "danielmiessler",
+                "repo": "SecLists",
+                "stars": 73039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mobile-Security-Framework-MobSF",
+              "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30102273,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T22:30:56Z",
+                "owner": "MobSF",
+                "repo": "Mobile-Security-Framework-MobSF",
+                "stars": 21631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orange Tsai",
+              "description": "Collections of Orange Tsai's public presentation slides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338566722,
+                "language": null,
+                "last_commit": "2025-01-01T10:00:45Z",
+                "owner": "orangetw",
+                "repo": "My-Presentation-Slides",
+                "stars": 762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PENTESTING-BIBLE",
+              "description": "Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194262275,
+                "language": null,
+                "last_commit": "2023-04-03T07:40:28Z",
+                "owner": "blaCCkHatHacEEkr",
+                "repo": "PENTESTING-BIBLE",
+                "stars": 13936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "how-to-secure-anything",
+              "description": "How to systematically secure anything: a repository about security engineering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253398088,
+                "language": null,
+                "last_commit": "2023-03-07T19:50:13Z",
+                "owner": "veeral-patel",
+                "repo": "how-to-secure-anything",
+                "stars": 10225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hacker-laws",
+              "description": "Laws, Theories, Principles and Patterns that engineers will find useful. #hackerlaws",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118858739,
+                "language": "HTML",
+                "last_commit": "2026-05-19T06:22:17Z",
+                "owner": "dwmkerr",
+                "repo": "hacker-laws",
+                "stars": 27266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-product-management",
+              "description": "🚀 A curated list of awesome resources for product/program managers to learn and grow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173645627,
+                "language": "CSS",
+                "last_commit": "2026-02-08T02:36:12Z",
+                "owner": "dend",
+                "repo": "awesome-product-management",
+                "stars": 2317
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-engineering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "system-design-notebook",
+              "description": "Learn System Design step by step",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287950119,
+                "language": null,
+                "last_commit": "2023-08-06T18:56:04Z",
+                "owner": "bregman-arie",
+                "repo": "system-design-notebook",
+                "stars": 1321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-software-architect-roadmap",
+              "description": "View roadmaps about architect roles to help you learn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129790027,
+                "language": null,
+                "last_commit": "2020-03-05T14:25:02Z",
+                "owner": "AlaaAttya",
+                "repo": "software-architect-roadmap",
+                "stars": 1080
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-software-design-and-architecture-roadmap",
+              "description": "The software design and architecture roadmap for any developer https://solidbook.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211570135,
+                "language": null,
+                "last_commit": "2023-02-10T16:48:46Z",
+                "owner": "stemmlerjs",
+                "repo": "software-design-and-architecture-roadmap",
+                "stars": 3404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-solution-architecture",
+              "description": "Solution Architecture links, articles, books, video lessons, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97631235,
+                "language": null,
+                "last_commit": "2022-10-09T09:58:15Z",
+                "owner": "unlight",
+                "repo": "solution-architecture",
+                "stars": 697
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solutions-architecture-patterns",
+              "description": "solutions architecture patterns which can be reused to build enterprise software systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179707986,
+                "language": null,
+                "last_commit": "2023-04-17T05:29:49Z",
+                "owner": "chanakaudaya",
+                "repo": "solution-architecture-patterns",
+                "stars": 3464
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "data-oriented-design",
+              "description": "A curated list of data oriented design resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37568065,
+                "language": null,
+                "last_commit": "2026-07-17T22:44:32Z",
+                "owner": "dbartolini",
+                "repo": "data-oriented-design",
+                "stars": 4462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "system-design-primer",
+              "description": "Learn how to design large-scale systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83222441,
+                "language": "Python",
+                "last_commit": "2026-03-20T01:52:19Z",
+                "owner": "donnemartin",
+                "repo": "system-design-primer",
+                "stars": 365730
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "low-level-design-primer",
+              "description": "Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284794744,
+                "language": null,
+                "last_commit": "2024-01-01T20:34:02Z",
+                "owner": "prasadgujar",
+                "repo": "low-level-design-primer",
+                "stars": 7898
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-scalability",
+              "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115478820,
+                "language": null,
+                "last_commit": "2026-01-04T03:51:47Z",
+                "owner": "binhnguyennus",
+                "repo": "awesome-scalability",
+                "stars": 73497
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-design-patterns",
+              "description": "A curated list of software and architecture related design patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136062240,
+                "language": null,
+                "last_commit": "2024-10-25T19:57:00Z",
+                "owner": "DovAmir",
+                "repo": "awesome-design-patterns",
+                "stars": 48672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-system-design",
+              "description": "A curated list of awesome System Design (A.K.A. Distributed Computing) resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278641419,
+                "language": null,
+                "last_commit": "2026-02-27T13:35:34Z",
+                "owner": "madd86",
+                "repo": "awesome-system-design",
+                "stars": 12432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "architecture_decision_record",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71206432,
+                "language": null,
+                "last_commit": "2026-08-20T01:21:29Z",
+                "owner": "architecture-decision-record",
+                "repo": "architecture-decision-record",
+                "stars": 16721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Architecture Decisions:Demystifying Architecture https://github.com/AdyKalra/technolgytrends/blob/master/Architecture%20trends/ADRs.md",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-software-architecture",
+              "description": "A curated list of resources on software architecture",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163113528,
+                "language": null,
+                "last_commit": "2026-04-19T14:30:02Z",
+                "owner": "simonaronsson",
+                "repo": "awesome-software-architecture",
+                "stars": 2872
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "system-design-in-practice",
+              "description": "Learn how to design a system from tech company blogs - real world examples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337595855,
+                "language": null,
+                "last_commit": "2026-02-03T08:23:52Z",
+                "owner": "resumejob",
+                "repo": "system-design-in-practice",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Domain-Driven Hexagon",
+              "description": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316988921,
+                "language": "TypeScript",
+                "last_commit": "2024-06-11T05:47:51Z",
+                "owner": "Sairyss",
+                "repo": "domain-driven-hexagon",
+                "stars": 14883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-software-architecture-web",
+              "description": "awesome-software-architecture A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336648397,
+                "language": null,
+                "last_commit": "2026-07-16T11:04:37Z",
+                "owner": "mehdihadeli",
+                "repo": "awesome-software-architecture",
+                "stars": 11586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scalable-Software-Architecture",
+              "description": "Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design. '",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70306859,
+                "language": null,
+                "last_commit": "2023-11-08T17:14:18Z",
+                "owner": "Developer-Y",
+                "repo": "Scalable-Software-Architecture",
+                "stars": 2262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "evolutionary-architecture-by-example",
+              "description": "Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685102574,
+                "language": "C#",
+                "last_commit": "2026-08-22T13:11:05Z",
+                "owner": "evolutionary-architecture",
+                "repo": "evolutionary-architecture-by-example",
+                "stars": 3499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-scalability",
+              "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115478820,
+                "language": null,
+                "last_commit": "2026-01-04T03:51:47Z",
+                "owner": "binhnguyennus",
+                "repo": "awesome-scalability",
+                "stars": 73497
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-architecture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-roadmaps",
+              "description": "A curated list of awesome software development roadmaps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87832016,
+                "language": null,
+                "last_commit": "2023-03-02T15:22:40Z",
+                "owner": "orsanawwad",
+                "repo": "awesome-roadmaps",
+                "stars": 1982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-readme",
+              "description": "A curated list of awesome READMEs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29456624,
+                "language": null,
+                "last_commit": "2026-08-20T19:50:09Z",
+                "owner": "matiassingers",
+                "repo": "awesome-readme",
+                "stars": 21364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "build-your-own-x",
+              "description": "Build your own (insert technology here)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132750724,
+                "language": "Markdown",
+                "last_commit": "2026-07-14T19:25:58Z",
+                "owner": "codecrafters-io",
+                "repo": "build-your-own-x",
+                "stars": 542533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-selfhosted",
+              "description": "Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers. This is a list of Free Software network services and web applications which can be hosted locally.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36633370,
+                "language": null,
+                "last_commit": "2026-08-22T18:55:56Z",
+                "owner": "awesome-selfhosted",
+                "repo": "awesome-selfhosted",
+                "stars": 314666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-learning-resources",
+              "description": "Awesome list of resources on Development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118102098,
+                "language": null,
+                "last_commit": "2025-07-16T10:29:00Z",
+                "owner": "lauragift21",
+                "repo": "awesome-learning-resources",
+                "stars": 5762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "free-programming-books",
+              "description": "Freely available programming books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 395136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "project-guidelines",
+              "description": "list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95876775,
+                "language": "JavaScript",
+                "last_commit": "2024-12-09T07:59:04Z",
+                "owner": "elsewhencode",
+                "repo": "project-guidelines",
+                "stars": 29450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "app-ideas",
+              "description": "A Collection of application ideas which can be used to improve your coding skills.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172562475,
+                "language": null,
+                "last_commit": "2025-10-11T14:51:21Z",
+                "owner": "florinpop17",
+                "repo": "app-ideas",
+                "stars": 97050
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "java-design-patterns",
+              "description": "Design patterns implemented in Java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22790488,
+                "language": "Java",
+                "last_commit": "2026-08-17T22:42:48Z",
+                "owner": "iluwatar",
+                "repo": "java-design-patterns",
+                "stars": 94610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-devenv",
+              "description": "A curated list of awesome tools, resources and workflow tips making an awesome development environment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21687084,
+                "language": null,
+                "last_commit": "2024-07-29T13:08:35Z",
+                "owner": "jondot",
+                "repo": "awesome-devenv",
+                "stars": 3334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Best-websites-a-programmer-should-visit",
+              "description": "🔗 Some useful websites for programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 83999700,
+                "language": null,
+                "last_commit": "2025-09-16T18:34:24Z",
+                "owner": "sdmg15",
+                "repo": "Best-websites-a-programmer-should-visit",
+                "stars": 76269
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-codingpractices"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nodebestpractices",
+              "description": "The Node.js best practices list (May 2020)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103633984,
+                "language": "Dockerfile",
+                "last_commit": "2026-06-15T11:41:04Z",
+                "owner": "goldbergyoni",
+                "repo": "nodebestpractices",
+                "stars": 105601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lambda Best Practices",
+              "description": "Lambda",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-learning-resources",
+              "description": "Awesome list of resources on Development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118102098,
+                "language": null,
+                "last_commit": "2025-07-16T10:29:00Z",
+                "owner": "lauragift21",
+                "repo": "awesome-learning-resources",
+                "stars": 5762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Best-websites-a-programmer-should-visit",
+              "description": "Some useful websites for programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 83999700,
+                "language": null,
+                "last_commit": "2025-09-16T18:34:24Z",
+                "owner": "sdmg15",
+                "repo": "Best-websites-a-programmer-should-visit",
+                "stars": 76269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "project-guidelines",
+              "description": "list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95876775,
+                "language": "JavaScript",
+                "last_commit": "2024-12-09T07:59:04Z",
+                "owner": "elsewhencode",
+                "repo": "project-guidelines",
+                "stars": 29450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "best-practices-checklist",
+              "description": "A list of awesome idiomatic code resources. Rust🦀, Go, Ruby💎, Pony 🐴, Ocaml 🐫, Erlang and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202397474,
+                "language": null,
+                "last_commit": "2024-08-26T16:57:29Z",
+                "owner": "palash25",
+                "repo": "best-practices-checklist",
+                "stars": 976
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DesignPatternsLibrary",
+              "description": "A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325787527,
+                "language": "C#",
+                "last_commit": "2025-07-04T16:14:33Z",
+                "owner": "nemanjarogic",
+                "repo": "DesignPatternsLibrary",
+                "stars": 2133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clean-code-javascript",
+              "description": "🛁 Clean Code concepts adapted for JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74791366,
+                "language": "JavaScript",
+                "last_commit": "2024-07-29T07:24:37Z",
+                "owner": "ryanmcdermott",
+                "repo": "clean-code-javascript",
+                "stars": 94765
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DotNetCodingPatterns",
+              "description": "A collection of coding patterns in no particular order",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339233295,
+                "language": null,
+                "last_commit": "2024-06-15T07:34:07Z",
+                "owner": "davidfowl",
+                "repo": "DotNetCodingPatterns",
+                "stars": 1432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javascript-testing-best-practices",
+              "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195226340,
+                "language": "JavaScript",
+                "last_commit": "2024-06-27T07:25:17Z",
+                "owner": "goldbergyoni",
+                "repo": "javascript-testing-best-practices",
+                "stars": 24629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-powershell",
+              "description": "A curated list of delightful PowerShell modules and resources",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 36435966,
+                "language": "PowerShell",
+                "last_commit": "2025-04-14T06:25:33Z",
+                "owner": "janikvonrotz",
+                "repo": "awesome-powershell",
+                "stars": 5408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auxiliary-engineering",
+              "description": "Supporting teams - chammpios / aux engineers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scaling serverless bestpractices",
+              "description": "Best practices for organizing larger serverless applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scaling microservices betspractices",
+              "description": "Scaling Microservices",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Infra as Code",
+              "description": "IAC best practices",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orchestrating CI CD Pipelines",
+              "description": "best practices for CI CD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code Deployment best practices",
+              "description": "deploys at Slack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232754593,
+                "language": null,
+                "last_commit": "2026-04-21T01:17:31Z",
+                "owner": "AdyKalra",
+                "repo": "technolgytrends",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kubernetes-best-practices",
+              "description": "A cookbook with the best practices for working with kubernetes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402495001,
+                "language": null,
+                "last_commit": "2026-04-27T12:56:26Z",
+                "owner": "diegolnasc",
+                "repo": "kubernetes-best-practices",
+                "stars": 1504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-technical-writing",
+              "description": "A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221308953,
+                "language": null,
+                "last_commit": "2026-07-22T05:49:36Z",
+                "owner": "BolajiAyodeji",
+                "repo": "awesome-technical-writing",
+                "stars": 2296
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-bestpractices"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "frontend-tools",
+              "description": "Landscaping With Front-end Tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6002602,
+                "language": null,
+                "last_commit": "2022-04-14T08:46:39Z",
+                "owner": "codylindley",
+                "repo": "frontend-tools",
+                "stars": 2364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "design-resources-for-developers",
+              "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261787758,
+                "language": null,
+                "last_commit": "2026-05-24T10:07:48Z",
+                "owner": "bradtraversy",
+                "repo": "design-resources-for-developers",
+                "stars": 66746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Front-End-Checklist",
+              "description": "The perfect Front-End Checklist for modern websites and meticulous developers https://frontendchecklist.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107111421,
+                "language": "MDX",
+                "last_commit": "2026-08-14T05:59:25Z",
+                "owner": "thedaviddias",
+                "repo": "Front-End-Checklist",
+                "stars": 73668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bolierplatedemos-fullstack",
+              "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52631841,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T21:19:04Z",
+                "owner": "realworld-apps",
+                "repo": "realworld",
+                "stars": 84136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "project-guidelines",
+              "description": "list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95876775,
+                "language": "JavaScript",
+                "last_commit": "2024-12-09T07:59:04Z",
+                "owner": "elsewhencode",
+                "repo": "project-guidelines",
+                "stars": 29450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "free-for-dev",
+              "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32484381,
+                "language": "HTML",
+                "last_commit": "2026-08-24T13:44:36Z",
+                "owner": "ripienaar",
+                "repo": "free-for-dev",
+                "stars": 134948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "developer-roadmap",
+              "description": "Roadmap to becoming a web developer in 2020",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85077558,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T14:35:38Z",
+                "owner": "nilbuild",
+                "repo": "developer-roadmap",
+                "stars": 365303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "professional-programming",
+              "description": "A collection of full-stack resources for programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45723377,
+                "language": "Python",
+                "last_commit": "2026-07-15T15:55:09Z",
+                "owner": "charlax",
+                "repo": "professional-programming",
+                "stars": 51443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Best-websites-a-programmer-should-visit",
+              "description": "Best-websites-a-programmer-should-visit Some useful websites for programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 83999700,
+                "language": null,
+                "last_commit": "2025-09-16T18:34:24Z",
+                "owner": "sdmg15",
+                "repo": "Best-websites-a-programmer-should-visit",
+                "stars": 76269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "four-key",
+              "description": "four-key is a measurement tool written with golang for your repositories. This project inspired from Accelerate book.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 265595933,
+                "language": "Go",
+                "last_commit": "2021-01-26T09:02:36Z",
+                "owner": "Trendyol",
+                "repo": "four-key",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CDK-SPA-Deploy",
+              "description": "This is an AWS CDK Construct to make deploying a single page website (Angular/React/Vue) to AWS S3 behind SSL/Cloudfront easier",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231734093,
+                "language": "TypeScript",
+                "last_commit": "2023-04-25T14:57:42Z",
+                "owner": "nideveloper",
+                "repo": "CDK-SPA-Deploy",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-react",
+              "description": "A collection of awesome things regarding the React ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22670857,
+                "language": null,
+                "last_commit": "2026-08-20T07:58:12Z",
+                "owner": "enaqx",
+                "repo": "awesome-react",
+                "stars": 74384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "30-Days-Of-React",
+              "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299628763,
+                "language": "JavaScript",
+                "last_commit": "2025-12-06T14:41:42Z",
+                "owner": "Asabeneh",
+                "repo": "30-Days-Of-React",
+                "stars": 27472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "30-Days-Of-JavaScript",
+              "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229764465,
+                "language": "JavaScript",
+                "last_commit": "2025-12-06T11:12:48Z",
+                "owner": "Asabeneh",
+                "repo": "30-Days-Of-JavaScript",
+                "stars": 46726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "30-seconds-of-code",
+              "description": "Short JavaScript code snippets for all your development needs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112507086,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T06:19:54Z",
+                "owner": "Chalarangelo",
+                "repo": "30-seconds-of-code",
+                "stars": 128810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-redux-realworld-example-app",
+              "description": "Exemplary real world application built with React + Redux",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56101366,
+                "language": "JavaScript",
+                "last_commit": "2024-03-13T13:18:54Z",
+                "owner": "gothinkster",
+                "repo": "react-redux-realworld-example-app",
+                "stars": 5621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "angular-realworld-example-app",
+              "description": "Exemplary real world application built with angular",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68956484,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T17:06:53Z",
+                "owner": "realworld-apps",
+                "repo": "angular-realworld-example-app",
+                "stars": 5622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frontend-development",
+              "description": "A curated list of resources for Frontend development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308831318,
+                "language": null,
+                "last_commit": "2024-03-04T11:02:05Z",
+                "owner": "codingknite",
+                "repo": "frontend-development",
+                "stars": 2337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web-tools",
+              "description": "web-tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138393139,
+                "language": null,
+                "last_commit": "2024-11-19T14:00:38Z",
+                "owner": "trimstray",
+                "repo": "the-book-of-secret-knowledge",
+                "stars": 240103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "33-js-concepts",
+              "description": "📜 33 JavaScript concepts every developer should know.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147350463,
+                "language": "JavaScript",
+                "last_commit": "2026-08-02T14:51:44Z",
+                "owner": "leonardomso",
+                "repo": "33-js-concepts",
+                "stars": 66516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javascript-testing-best-practices",
+              "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195226340,
+                "language": "JavaScript",
+                "last_commit": "2024-06-27T07:25:17Z",
+                "owner": "goldbergyoni",
+                "repo": "javascript-testing-best-practices",
+                "stars": 24629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bulletproof-react",
+              "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372240402,
+                "language": "TypeScript",
+                "last_commit": "2026-05-14T13:53:04Z",
+                "owner": "alan2207",
+                "repo": "bulletproof-react",
+                "stars": 35745
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typescript-book",
+              "description": "📚 The definitive guide to TypeScript and possibly the best TypeScript book",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32623292,
+                "language": "TypeScript",
+                "last_commit": "2024-06-29T11:46:59Z",
+                "owner": "basarat",
+                "repo": "typescript-book",
+                "stars": 21552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-javascript-learning",
+              "description": "A tiny list limited to the best JavaScript Learning Resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73953958,
+                "language": null,
+                "last_commit": "2026-02-01T20:52:43Z",
+                "owner": "micromata",
+                "repo": "awesome-javascript-learning",
+                "stars": 5842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frontend-clean-architecture",
+              "description": "React + TypeScript app built using clean architecture principles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374626738,
+                "language": "TypeScript",
+                "last_commit": "2025-01-25T14:09:51Z",
+                "owner": "bespoyasov",
+                "repo": "frontend-clean-architecture",
+                "stars": 2585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "curriculum",
+              "description": "The open curriculum for learning web development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10614101,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T19:23:46Z",
+                "owner": "TheOdinProject",
+                "repo": "curriculum",
+                "stars": 12972
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-web"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bolierplatedemos-fullstack",
+              "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52631841,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T21:19:04Z",
+                "owner": "realworld-apps",
+                "repo": "realworld",
+                "stars": 84136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-python",
+              "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119908139,
+                "language": "Python",
+                "last_commit": "2018-02-01T16:10:05Z",
+                "owner": "AdyKalra",
+                "repo": "awesome-python",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "free-for-dev",
+              "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32484381,
+                "language": "HTML",
+                "last_commit": "2026-08-24T13:44:36Z",
+                "owner": "ripienaar",
+                "repo": "free-for-dev",
+                "stars": 134948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "developer-roadmap",
+              "description": "Roadmap to becoming a web developer in 2020",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85077558,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T14:35:38Z",
+                "owner": "nilbuild",
+                "repo": "developer-roadmap",
+                "stars": 365303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "professional-programming",
+              "description": "A collection of full-stack resources for programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45723377,
+                "language": "Python",
+                "last_commit": "2026-07-15T15:55:09Z",
+                "owner": "charlax",
+                "repo": "professional-programming",
+                "stars": 51443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Best-websites-a-programmer-should-visit",
+              "description": "Best-websites-a-programmer-should-visit Some useful websites for programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 83999700,
+                "language": null,
+                "last_commit": "2025-09-16T18:34:24Z",
+                "owner": "sdmg15",
+                "repo": "Best-websites-a-programmer-should-visit",
+                "stars": 76269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "four-key",
+              "description": "four-key is a measurement tool written with golang for your repositories. This project inspired from Accelerate book.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 265595933,
+                "language": "Go",
+                "last_commit": "2021-01-26T09:02:36Z",
+                "owner": "Trendyol",
+                "repo": "four-key",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "data-engineer-roadmap",
+              "description": "Roadmap to becoming a data engineer in 2021",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292293462,
+                "language": null,
+                "last_commit": "2022-01-25T21:09:00Z",
+                "owner": "datastacktv",
+                "repo": "data-engineer-roadmap",
+                "stars": 12749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CleanArchitecture",
+              "description": "A starting point for Clean Architecture with ASP.NET Core",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69673033,
+                "language": "C#",
+                "last_commit": "2026-08-23T20:27:55Z",
+                "owner": "ardalis",
+                "repo": "CleanArchitecture",
+                "stars": 18427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-backend"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-flutter",
+              "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169841090,
+                "language": "Dart",
+                "last_commit": "2019-02-08T21:56:08Z",
+                "owner": "AdyKalra",
+                "repo": "awesome-flutter",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bolierplatedemos-fullstack",
+              "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52631841,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T21:19:04Z",
+                "owner": "realworld-apps",
+                "repo": "realworld",
+                "stars": 84136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Best-Flutter-UI-Templates",
+              "description": "Flutter Dart templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205812745,
+                "language": "Dart",
+                "last_commit": "2025-12-16T10:59:44Z",
+                "owner": "mitesh77",
+                "repo": "Best-Flutter-UI-Templates",
+                "stars": 22812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "E-commerce-Complete-Flutter-UI",
+              "description": "Flutter UI ecommerce demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285633667,
+                "language": "Dart",
+                "last_commit": "2024-08-23T16:07:40Z",
+                "owner": "abuanwar072",
+                "repo": "E-commerce-Complete-Flutter-UI",
+                "stars": 4832
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-awesome-libraries",
+              "description": "There are many libraries which helps your android development!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22796876,
+                "language": null,
+                "last_commit": "2016-02-15T04:07:28Z",
+                "owner": "kaiinui",
+                "repo": "android-awesome-libraries",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-dev-readme",
+              "description": "Collection of links for every Android developer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34007064,
+                "language": null,
+                "last_commit": "2015-05-01T10:12:33Z",
+                "owner": "anirudh24seven",
+                "repo": "android-dev-readme",
+                "stars": 452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-open-project",
+              "description": "A categorized collection of Android Open Source Projects, More powerful web version:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15653276,
+                "language": null,
+                "last_commit": "2026-03-25T01:04:16Z",
+                "owner": "Trinea",
+                "repo": "android-open-project",
+                "stars": 31818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-security-awesome",
+              "description": "A collection of android security related resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22117770,
+                "language": "Makefile",
+                "last_commit": "2026-08-21T18:33:19Z",
+                "owner": "ashishb",
+                "repo": "android-security-awesome",
+                "stars": 9638
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ios-awesome-libraries",
+              "description": "Also in iOS, there are many awesome libraries!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23100971,
+                "language": null,
+                "last_commit": "2014-11-04T21:16:00Z",
+                "owner": "kaiinui",
+                "repo": "ios-awesome-libraries",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS-Developer-and-Designer-Interview-Questions",
+              "description": "A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test if you're looking to keep current or practice for your own interview.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28719683,
+                "language": null,
+                "last_commit": "2017-06-01T13:13:42Z",
+                "owner": "9magnets",
+                "repo": "iOS-Developer-and-Designer-Interview-Questions",
+                "stars": 1576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOSDevResource",
+              "description": "The Best Awesome iOS Development Resource List, Updating",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30455347,
+                "language": null,
+                "last_commit": "2014-09-21T14:02:14Z",
+                "owner": "OBJCC",
+                "repo": "iOSDevResource",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flutter_roadmap",
+              "description": "Highly Subjective Roadmap to Flutter Development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253254795,
+                "language": null,
+                "last_commit": "2024-12-24T17:48:05Z",
+                "owner": "olexale",
+                "repo": "flutter_roadmap",
+                "stars": 5937
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesomefluttertips",
+              "description": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260627194,
+                "language": "Dart",
+                "last_commit": "2022-09-30T09:08:06Z",
+                "owner": "erluxman",
+                "repo": "awesomefluttertips",
+                "stars": 2943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-source-ios-apps",
+              "description": "📱 Collaborative List of Open-Source iOS Apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29887499,
+                "language": null,
+                "last_commit": "2026-08-24T14:08:43Z",
+                "owner": "dkhamsing",
+                "repo": "open-source-ios-apps",
+                "stars": 51827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+              "description": "redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335922824,
+                "language": "Dart",
+                "last_commit": "2021-08-04T17:25:15Z",
+                "owner": "abuanwar072",
+                "repo": "Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+                "stars": 1837
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mobile-apps-scanners",
+              "description": "mobile-apps-scanners",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138393139,
+                "language": null,
+                "last_commit": "2024-11-19T14:00:38Z",
+                "owner": "trimstray",
+                "repo": "the-book-of-secret-knowledge",
+                "stars": 240103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swift-collections",
+              "description": "A package of production grade Swift data structures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339202510,
+                "language": "Swift",
+                "last_commit": "2026-08-24T06:07:25Z",
+                "owner": "apple",
+                "repo": "swift-collections",
+                "stars": 4481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin Multiplatform",
+              "description": "An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406327361,
+                "language": null,
+                "last_commit": "2026-07-22T10:52:55Z",
+                "owner": "terrakok",
+                "repo": "kmp-awesome",
+                "stars": 5842
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-mobile"
+        }
+      ],
+      "title": "all-awesome-repos"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T04:13:11.763Z",
+    "last_updated": "2026-08-24T14:50:02.817Z",
     "original_repository": "AdyKalra/awesome-of-awesomes",
     "original_repository_id": 205340874,
     "original_repository_sha": "3ac4e947cf853577288cb636f558a15fb1bb4776",
